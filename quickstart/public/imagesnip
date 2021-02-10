@@ -1,0 +1,2 @@
+{{- $image := resources.Get “wlgwaterf.jpg” -}}
+{{ $image := $resource.Fit "600x400" }}
