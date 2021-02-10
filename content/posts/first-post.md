@@ -15,6 +15,7 @@ showFullContent = false
 ```html
   // your code here
   <b>quantum crypto code sample</b>
+  <b>qsim example here</b>
  //
 ```
 
