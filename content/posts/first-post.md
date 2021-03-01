@@ -95,5 +95,4 @@ int main()
 
 {{< vimeo 511354455 >}}
 
-{{< instagram BFZxW7IRtXm >}}
 
